@@ -1,5 +1,4 @@
-mod r#statements;
-mod r#satements;
+mod functions;
 
 fn main() {
     println!("Hello, world!");
