@@ -1,4 +1,5 @@
-mod array;
+mod slice;
+
 fn main() {
     println!("Hello, world!");
 }
