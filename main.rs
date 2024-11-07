@@ -1,5 +1,4 @@
-mod r#struct;
-
+mod Enum;
 
 fn main() {
     println!("Hello, world!");
