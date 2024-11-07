@@ -1,4 +1,4 @@
-mod r#reference;
+mod string;
 
 fn main() {
     println!("Hello, world!");
